@@ -32,7 +32,7 @@ A guide to setup a demo VMs for communication
  - [5. Schedule all](#5-schedule-all)
  - [6. Extra](#6-extra)
  - [Enjoy](#enjoy)
-
+  
 ### 1. Install VBox
 #### Video
 [![1 Install VBox](https://res.cloudinary.com/marcomontalbano/image/upload/v1604154185/video_to_markdown/images/youtube--2GwoHz4_Jtg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2GwoHz4_Jtg "1 Install VBox")
