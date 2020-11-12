@@ -25,12 +25,13 @@ A guide to setup a demo VMs for communication
    
 ## Istructions
 
- - [1. Install VBox]
- - [2. Install VMaschines]
- - [3. Install softwares]
- - [4. Setup Network]
- - [5. Schedule all]
- - [Enjoy]
+ - [1. Install VBox](#1-install-vbox)
+ - [2. Install VMaschines](#2-install-vmaschines)
+ - [3. Install softwares](#3-install-softwares)
+ - [4. Setup Network](#4-setup-network)
+ - [5. Schedule all](#5-schedule-all)
+ - [6. Extra](#6-extra)
+ - [Enjoy](#enjoy)
 
 ### 1. Install VBox
 #### Video
@@ -99,8 +100,13 @@ A guide to setup a demo VMs for communication
  - Replace "/|\folder/|\" with the folder there was all your files
  - Try it restarting the VM(s)
 
+### 6. Extra
+![Extra image](https://www.mondomobileweb.it/wp-content/uploads/2016/07/timextra-1-1280x720.jpg)
+
+If you want to save files in another PC (push method) you need to change the execution every time add "-f <MY_FOLDER>" or "--folder <MY_FOLDER>" where <MY_FOLDER> is your folder (eg. \\MYPCN4M3\MYP4TH).
+
 ### Enjoy
-![](./src/enjoy.svg)
+![Enjoy image](./src/enjoy.svg)
 
 ---
 Made by Castellani Davide 
